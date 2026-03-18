@@ -97,12 +97,44 @@ p {
 
 /*** INSERT YOUR WORK BELOW: ***/
 
+header, footer {
+    background-color: #c74365;
+}
 
+main {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
+header a {
+    font-size: 18px;
+}
 
+header img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
 
+header h1,
+header nav a {
+    line-height: 50px;
+}
 
+header .fixed-width {
+    justify-content: space-between;
+    align-items: center;
+}
 
+header nav {
+    display: flex;
+    gap: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+}
 
 
 /****************** home page styling ******************/
@@ -114,7 +146,15 @@ p {
 
 /*** INSERT YOUR WORK BELOW: ***/
 
+.italics {
+    font-style: italic;
+}
 
+article {
+    background-color: lightgray;
+    padding: 15px;
+    margin: 15px;
+}
 
 
 
