@@ -1,4 +1,4 @@
-/****************** YOUR NAME: 
+/****************** YOUR NAME: Addy Geniz
 
 Some starter CSS has been provided. You are discouraged from modifying the starter CSS.
 
@@ -46,13 +46,39 @@ h1, h2 {
 
 /*** INSERT YOUR WORK BELOW: ***/
 
+h1 {
+    font-size: 32px;
+}
 
+h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
 
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
 
+footer {
+    font-size: 12px;
+}
 
+a {
+    text-decoration: none;
+}
 
+a:hover {
+    text-decoration: underline;
+}
 
+header a {
+    color: black;
+}
 
+p {
+    margin-bottom: 15px;
+}
 
 
 /****************** site-wide styling ******************/
